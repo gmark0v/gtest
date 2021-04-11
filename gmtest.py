@@ -1,7 +1,9 @@
-print("test")
-print("asd")
-print("qwe")
-print("rty")
+if 1 != 1:
+  print("test")
+  print("asd")
+else:
+  print("qwe")
+  print("rty")
 print("uio")
 print("jsndf")
 print("8271")
